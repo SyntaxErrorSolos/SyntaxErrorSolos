@@ -1,6 +1,9 @@
-<h1>
-Hello, I am <span> Abacus! </span>
-</h1>
-<p> 
-A front and backend developer from Pakistan!
-</p>
+## About Me
+
+- `🚹` 15 year old boy
+- `🤖` Machine Learning Enthusiastic
+- `🌐` Web developer
+- `🎮` Gamer
+
+## Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=syntaxerrorsolos&show=review&show_icons=true&theme=transparent)
