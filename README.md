@@ -1,6 +1,6 @@
 ## About Me
 
-- `🚹` 15 year old
+- `🚹` 16 year old
 - `🤖` Machine Learning Enthusiastic
 - `🌐` Web developer
 - `🎮` Gamer
